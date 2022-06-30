@@ -1,0 +1,14 @@
+body {
+  background: rgb(240, 202, 131);
+  text-align: center;
+}
+
+h1 {
+  color:rgb(56, 4, 99);
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
